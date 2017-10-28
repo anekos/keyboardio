@@ -1,0 +1,6 @@
+[submodule "Arduino/hardware/keyboardio/avr"]
+	path = Arduino/hardware/keyboardio/avr
+	url = https://github.com/keyboardio/Arduino-Boards.git
+[submodule "Model01-Firmware"]
+	path = Model01-Firmware
+	url = https://github.com/keyboardio/Model01-Firmware.git
